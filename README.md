@@ -15,6 +15,6 @@ Run the APP.<br>
 
 To chage App Name  - Replace VivekGitRepo to Your [Desired APP Name]<br>
 
-To change Image Icon - Replace @mipmap/onlinemilega to your [Desired Icon Image] 
+To change Image Icon - Replace @mipmap/vivek to your [Desired Icon Image] 
 
 ```
