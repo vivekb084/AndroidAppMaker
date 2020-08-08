@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AndroidAppMaker.iml" filepath="$PROJECT_DIR$/AndroidAppMaker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidAppMaker.iml" filepath="$PROJECT_DIR$/AndroidAppMaker.iml" group="AndroidAppMaker" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="AndroidAppMaker/app" />
     </modules>
   </component>
 </project>
