@@ -4,6 +4,10 @@ This code create android app of given website
 # Requirments 
 Android Studio
 
+# How To Install
+Clone the project to your System<br>
+Open the Project With Android Studio
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
