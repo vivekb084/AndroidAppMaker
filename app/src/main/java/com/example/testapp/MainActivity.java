@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
         mWebView = (WebView) findViewById(R.id.activity_main_webview);
         WebSettings webSettings = mWebView.getSettings();
         webSettings.setJavaScriptEnabled(true);
-        mWebView.loadUrl("https://www.onlinemilega.com/");
+        mWebView.loadUrl("https://github.com/vivekb084");
         mWebView.setWebViewClient(new WebViewClient());
 
     }
