@@ -1,5 +1,5 @@
 # AndroidAppMaker
-This code create android app of given website
+This code create android app of given website links
 
 # Requirments 
 Android Studio
